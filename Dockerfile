@@ -1,1 +1,1 @@
-FROM mulesoft/flex-gateway:1.8.0
+FROM mulesoft/flex-gateway:1.8.3
